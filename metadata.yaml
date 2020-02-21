@@ -1,5 +1,5 @@
 homepage: "https://www.iconvert.io"
 documentation: "https://dashboard.iconvert.io/login"
 versions:
-  - sha: 77377c7fa0e5ab14bea5406b304c46420f0901d8
+  - sha: 9a5dfad9a286af28bb61f5afceefd3b033b3c10c
     changeNotes: Initial release.
